@@ -38,5 +38,6 @@ public class Modele {
 	}
 	
 	//Requete de connexion 1
+	System.out.println("Salut !!");
 
 }
