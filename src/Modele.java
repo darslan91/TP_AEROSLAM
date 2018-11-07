@@ -37,6 +37,6 @@ public class Modele {
 		}
 	}
 	
-	//Requete de connexion
+	//Requete de connexion 1
 
 }
